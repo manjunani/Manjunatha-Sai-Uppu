@@ -1,4 +1,4 @@
-# Manjunatha-Sai-Uppu
+# manjunani
 
 [![Linkedin Badge](https://img.shields.io/badge/-Manjunatha%20Sai%20Uppu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/manjunathasai/)](https://www.linkedin.com/in/manjunathasai/) 
 [![Twitter Badge](http://img.shields.io/badge/-@manjunatha_uppu-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Shivans01939094)](https://twitter.com/Shivans01939094) 
@@ -20,5 +20,5 @@ I'm Manjunatha Sai Uppu, Graduated from JNTUA College of Engineering, Kalikiri. 
 
 
 <!--
-**manjunani/Manjunatha-Sai-Uppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**manjunani/manjunani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
