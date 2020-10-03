@@ -20,5 +20,5 @@ I'm Manjunatha Sai Uppu, Graduated from JNTUA College of Engineering, Kalikiri. 
 
 
 <!--
-**manjunani/Manjunatha Sai Uppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**manjunani/Manjunatha-Sai-Uppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
