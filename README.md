@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://manjunani.github.io/manjunathasaiuppu](https://manjunani.github.io/manjunathasaiuppu)
 
-- ⚡ Fun fact **I think I am different**
+- ⚡ Fun fact **I think I am an alien**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
