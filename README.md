@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/manjunatha_uppu" target="blank"><img src="https://img.shields.io/twitter/follow/manjunatha_uppu?logo=twitter&style=for-the-badge" alt="manjunatha_uppu" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Javascript**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
