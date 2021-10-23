@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunani&label=Profile%20views&color=7a47ae&style=flat" alt="manjunani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjunani" alt="manjunani" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manjunani" alt="manjunani" />
+  </a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/manjunatha_uppu" target="blank"><img src="https://img.shields.io/twitter/follow/manjunatha_uppu?logo=twitter&style=for-the-badge" alt="manjunatha_uppu" /></a> </p>
 
