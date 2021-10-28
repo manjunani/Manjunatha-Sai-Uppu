@@ -50,3 +50,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunani&show_icons=true&locale=en" alt="manjunani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunani&theme=dark" alt="manjunani" /></p>
+<a href="https://app.daily.dev/manjunatha_uppu"><img src="https://api.daily.dev/devcards/cbde1ea19fd643ce8835bf5285f90184.png?r=uaw" width="400" alt="Manjunatha Sai Uppu's Dev Card"/></a>
