@@ -25,25 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sujidhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sujidhar" height="30" width="40" /></a>
 <a href="https://dev.to/manjunani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="manjunani" height="30" width="40" /></a>
 <a href="https://twitter.com/manjunatha_uppu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manjunatha_uppu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manjunathasai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manjunathasai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13198079" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13198079" height="30" width="40" /></a>
-<a href="https://codesandbox.com/manjunatha_uppu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="manjunatha_uppu" height="30" width="40" /></a>
-<a href="https://kaggle.com/manjunatha212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="manjunatha212" height="30" width="40" /></a>
 <a href="https://fb.com/manju.nani.351" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="manju.nani.351" height="30" width="40" /></a>
 <a href="https://instagram.com/manjunatha_uppu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manjunatha_uppu" height="30" width="40" /></a>
-<a href="https://dribbble.com/sujidhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sujidhar" height="30" width="40" /></a>
-<a href="https://www.behance.net/manjunatha063e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="manjunatha063e" height="30" width="40" /></a>
-<a href="https://medium.com/@manjunatha16.512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@manjunatha16.512" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucywbuvno8z6mho4nbt80jng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucywbuvno8z6mho4nbt80jng" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sujidhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sujidhar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sujidhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sujidhar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manjunathasaiuppu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="manjunathasaiuppu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@manjunathasai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@manjunathasai" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/manjunathasaiuppu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="manjunathasaiuppu" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/manjunathauppu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="manjunathauppu" height="30" width="40" /></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunani&show_icons=true&locale=en&layout=compact" alt="manjunani" /></p>
 
